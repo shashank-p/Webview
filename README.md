@@ -22,5 +22,4 @@ IDE: Android Studio 3.1.1
 
 ScreenShots
 
-![picture](img/1.png)
-![picture](img/2.png)
+![picture](1.png) ![picture](2.png)
