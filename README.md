@@ -20,6 +20,6 @@ Technologies used: Android, Java, XML
 
 IDE: Android Studio 3.1.1
 
-ScreenShots
+
 
 ![picture](1.png) ![picture](2.png)
